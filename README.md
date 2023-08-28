@@ -4,7 +4,7 @@ test repo for git + github lesson
 
 #New heading
 
-## Purpose
+## Purpose week 2
 
 -   Create a remote repo on GitHub
 -   Practice git workflow
